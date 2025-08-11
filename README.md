@@ -39,7 +39,8 @@ output: github_document
 - **Python**: 데이터 수집 및 전처리
 - **Pandas**: 데이터프레임 처리
 - **NetworkX** / **Matplotlib**: 관계도 시각화
-- **Seaborn**: 장르별 통계 시각화
+- **R**: 장르별 통계 시각화
+
 
 ## 💡 기대효과
 - 장르별 주요 감독과 배우 관계를 한눈에 파악 가능
