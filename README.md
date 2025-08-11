@@ -33,7 +33,7 @@ output: github_document
 - 엣지 굵기: 함께 작업한 횟수
 
 ### 🎨 시각화 예시
-(https://github.com/SeongYeonYun/Social_Network_analyze/blob/main/visualimg.PNG)
+![Network Visualization](visualimg.PNG)
 
 ## 🛠 사용 기술
 - **Python**: 데이터 수집 및 전처리
