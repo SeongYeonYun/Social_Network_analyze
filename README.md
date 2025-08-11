@@ -33,9 +33,7 @@ output: github_document
 - 엣지 굵기: 함께 작업한 횟수
 
 ### 🎨 시각화 예시
-![드라마 장르 관계도](images/drama_network.png)  
-![멜로 장르 관계도](images/melo_network.png)  
-![액션 장르 관계도](images/action_network.png)  
+(https://github.com/SeongYeonYun/Social_Network_analyze/blob/main/visualimg.PNG)
 
 ## 🛠 사용 기술
 - **Python**: 데이터 수집 및 전처리
