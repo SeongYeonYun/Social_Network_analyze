@@ -1,8 +1,5 @@
 ---
 title: "영화 배우-감독 관계도 시각화 프로젝트"
-author: "SeongYeonYun"
-date: "`r Sys.Date()`"
-output: github_document
 ---
 
 ## 📌 프로젝트 개요
